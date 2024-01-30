@@ -1,0 +1,12 @@
+﻿---
+BasedOnStyle: LLVM
+BreakBeforeBraces: Allman
+BreakStringLiterals: 'false'
+ColumnLimit: '140'
+IndentWidth: '2'
+PointerAlignment: Left
+ReflowComments: 'false'
+TabWidth: '4'
+UseTab: Never
+
+...
